@@ -1,0 +1,14 @@
+
+Cómo usarlo:
+
+1.- Coloca el archivo .bat dentro de la carpeta principal que deseas analizar.
+2.- Haz doble clic en el archivo .bat para ejecutarlo.
+3.- El script eliminará todos los archivos de video en la carpeta actual y en todos sus subdirectorios.
+
+-------------------------------------------------------------------------------------------------------------
+
+How to use it:
+
+1.- Place the .bat file inside the main folder you want to analyze.
+2.- Double click on the .bat file to run it.
+3.- The script will delete all the video files in the current folder and in all its subd
